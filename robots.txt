@@ -36,6 +36,7 @@ User-agent: Ai2Bot
 User-agent: AI2Bot
 User-agent: AI2Bot-DeepResearchEval
 User-agent: Ai2Bot-Dolma
+User-agent: AI2Bot-Dolma
 User-agent: aiHitBot
 User-agent: AISearchBot
 User-agent: Alexabot
@@ -224,6 +225,7 @@ User-agent: DeepSeek
 User-agent: DeepSeekBot
 User-agent: DeuSu
 User-agent: Devin
+User-agent: diffbot
 User-agent: Diffbot
 User-agent: Digg Deeper
 User-agent: Digimind
@@ -274,6 +276,7 @@ User-agent: ExtractorPro
 User-agent: Eyeotabot
 User-agent: EZID
 User-agent: Ezooms
+User-agent: Facebookbot
 User-agent: FacebookBot
 User-agent: facebookexternalhit
 User-agent: facebot
@@ -344,6 +347,7 @@ User-agent: Google-Structured-Data-Testing-Tool
 User-agent: google-xrawler
 User-agent: GoogleAgent-Mariner
 User-agent: Googlebot
+User-agent: Googlebot-Extended
 User-agent: Googlebot-Image
 User-agent: Googlebot-Mobile
 User-agent: Googlebot-News
@@ -569,7 +573,9 @@ User-agent: OdklBot
 User-agent: officestorebot
 User-agent: Offline Explorer
 User-agent: omgili
+User-agent: Omgili
 User-agent: omgilibot
+User-agent: Omgilibot
 User-agent: online-webceo-bot
 User-agent: OPD3.170816.012
 User-agent: OpenAI
@@ -597,6 +603,7 @@ User-agent: peer39_crawler
 User-agent: PerMan
 User-agent: Perplexity-User
 User-agent: PerplexityBot
+User-agent: Petalbot
 User-agent: PetalBot
 User-agent: PhindBot
 User-agent: Pingdom
@@ -676,6 +683,7 @@ User-agent: SemrushBot-SA
 User-agent: SemrushBot-SI
 User-agent: SemrushBot-SWA
 User-agent: sentibot
+User-agent: Sentibot
 User-agent: SenutoBot
 User-agent: SeobilityBot
 User-agent: SEOkicks
@@ -894,6 +902,7 @@ User-agent: Yellowbrandprotectionbot
 User-agent: Yeti
 User-agent: YisouSpider
 User-agent: yoozBot
+User-agent: Youbot
 User-agent: YouBot
 User-agent: YoudaoBot
 User-agent: Youmag
