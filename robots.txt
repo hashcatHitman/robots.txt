@@ -738,6 +738,7 @@ User-agent: Storebot-Google
 User-agent: StorygizeBot
 User-agent: StractBot
 User-agent: Streamline3Bot
+User-agent: SummalyBot
 User-agent: summify
 User-agent: SuperBot
 User-agent: Superfeedr
